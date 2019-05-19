@@ -25,7 +25,7 @@ public class PowtorkaMain {
                 System.out.println("Please insert lengt ad side");
                 int side = scanner.nextInt();
                 Square square = new Square(side);
-                square.draw();;
+                square.draw();
                 break;
 
         }
